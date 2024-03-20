@@ -1,0 +1,2 @@
+import numpy
+dir(numpy)

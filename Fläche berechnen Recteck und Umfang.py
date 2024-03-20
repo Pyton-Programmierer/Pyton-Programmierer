@@ -1,0 +1,6 @@
+value1 = float(input(" Seite a eingeben "))
+value2 = float(input(" Seite b eingeben "))
+(2 * (value1 + value2))
+(value1 * value2)
+print("Der Umfang des Rechtecks beträgt " + str(2 * (value1 + value2)))
+print("Der Flächeninhalt beträgt " + str(value1 * value2))
